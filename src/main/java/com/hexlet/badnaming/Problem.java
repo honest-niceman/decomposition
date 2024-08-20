@@ -5,6 +5,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/*
+Не заглянув в реализацию методов невозможно понять что они делают
+ */
 public class Problem {
     public static int c(int a, int b) {
         int x = a + b;

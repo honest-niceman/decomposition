@@ -1,5 +1,10 @@
 package com.hexlet.monolithcode;
 
+/*
+1. Магические числа
+2. Отсутствие default
+3. Получился непериспользуемый код
+ */
 public class Problem {
     public static double calculateTotalSalaryForActiveUsers(Employee[] employees) {
         double totalSalary = 0;

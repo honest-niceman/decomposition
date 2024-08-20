@@ -1,5 +1,9 @@
 package com.hexlet.excessivenesting;
 
+/*
+1. Слишком сложно, адская вложенность, высокая когнитивная нагрузка
+2. Внести изменения и ничего не сломать практически невозможно
+ */
 @SuppressWarnings("ALL")
 public class Problem {
     public void processOrder(Order order) {
